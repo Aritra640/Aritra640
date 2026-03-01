@@ -61,10 +61,11 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=1e1e2e"/>
+  <a href="https://x.com/Aritra0064">
+    <img src="https://img.shields.io/badge/X-f5c2e7?style=for-the-badge&logo=x&logoColor=1e1e2e"/>
+</a>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:chatterjeearitra15@gmail.com">
     <img src="https://img.shields.io/badge/Email-f5c2e7?style=for-the-badge&logo=gmail&logoColor=1e1e2e"/>
   </a>
 </p>
