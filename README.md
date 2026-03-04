@@ -1,9 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:cba6f7&height=220&section=header&text=Aritra%20Chatterjee&fontSize=42&fontColor=cdd6f4&animation=fadeIn&desc=Full%20Stack%20TypeScript%20Engineer&descAlignY=65&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:cba6f7&height=220&section=header&text=Aritra%20Chatterjee&fontSize=42&fontColor=cdd6f4&animation=fadeIn&desc=TypeScript.Bun.NextJS&descAlignY=65&descAlign=50" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=cba6f7&center=true&vCenter=true&width=550&lines=TypeScript+Everywhere;Bun+Runtime+%2B+Next.js;Fullstack+Web+Architecture;Scalable+System+Design" />
 </p>
 
+---
 ---
 
 ## 🌙 About Me
