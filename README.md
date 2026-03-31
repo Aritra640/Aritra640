@@ -1,19 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:cba6f7&height=230&section=header&text=Aritra%20Chatterjee&fontSize=46&fontColor=cdd6f4&animation=fadeIn&desc=TypeScript%20•%20Bun%20•%20Next.js&descAlignY=65&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:cba6f7&height=230&section=header&text=Aritra%20Chatterjee&fontSize=46&fontColor=cdd6f4&animation=fadeIn&desc=Full-Stack%20Engineer%20•%20TypeScript%20•%20Systems%20Focused&descAlignY=65&descAlign=50" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=cba6f7&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Systems;TypeScript+Everywhere;Bun+Runtime+%2B+Next.js;Realtime+Applications;Clean+Architecture+%26+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=cba6f7&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Systems;TypeScript+First+Engineering;Realtime+Systems+%26+Architecture;Performance+Driven+Development" />
 </p>
 
 ---
 
-## 🌙 About
+## 👨‍💻 About
 
-Full-stack engineer focused on building **production-grade web systems** with **TypeScript**.
+Full-stack engineer specializing in **TypeScript-first systems design** and **high-performance web applications**.
 
-- ⚡ Backend services using **Bun**
-- 🌐 Architecting applications with **Next.js (App Router)**
-- 🧠 Interested in **runtime internals & performance**
-- 🛠 Building **real-time collaborative systems**
+- Architecting scalable backend systems using **Bun & Node.js**
+- Building modern frontend platforms with **Next.js (App Router, RSC)**
+- Designing **real-time collaborative systems** and WebSocket infrastructures
+- Focused on **performance, clean architecture, and developer experience**
 
 ---
 
@@ -25,13 +25,14 @@ Full-stack engineer focused on building **production-grade web systems** with **
 
 ---
 
-## ⚙️ What I Build
+## 🚀 Core Competencies
 
-- Full-stack **TypeScript platforms**
-- **Bun APIs & WebSocket servers**
-- **Next.js SSR / RSC architectures**
-- **Authentication systems (JWT / OAuth)**
-- **Realtime collaborative applications**
+- **Full-Stack TypeScript Development**
+- **API Design & Distributed Systems**
+- **Realtime Systems (WebSockets, State Sync)**
+- **Authentication & Authorization (JWT, OAuth)**
+- **SSR / RSC Architectures with Next.js**
+- **Database Design (PostgreSQL)**
 
 ---
 
@@ -48,7 +49,7 @@ Full-stack engineer focused on building **production-grade web systems** with **
 
 ---
 
-## 📫 Connect
+## 📫 Contact
 
 <p align="center">
   <a href="https://x.com/Aritra0064">
